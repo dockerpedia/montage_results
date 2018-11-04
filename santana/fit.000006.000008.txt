@@ -1,0 +1,1 @@
+[struct stat="OK", a=-1.65679e-07, b=9.48603e-07, c=1.26035, crpix1=-432, crpix2=-185, xmin=432, xmax=934, ymin=186, ymax=238, xcenter=665.356, ycenter=211.911, npixel=19114, rms=0.000392824, boxx=683, boxy=212, boxwidth=54, boxheight=502, boxang=90]
